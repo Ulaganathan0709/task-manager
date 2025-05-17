@@ -35,6 +35,8 @@ A clean and responsive task manager built with **React + Vite**, styled using **
 
 ## 📂 Project Structure
 
+```bash
+
 task-manager/
 ├── public/
 │   └── index.html
@@ -65,6 +67,8 @@ task-manager/
 ├── tailwind.config.js
 ├── package.json
 └── vite.config.js
+
+```
 
 
 ---
