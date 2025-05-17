@@ -4,7 +4,7 @@ import CreateTask from './pages/CreateTask';
 import EditTask from './pages/EditTask';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import './app.css';
+import './index.css';
 
 export default function App() {
   return (
