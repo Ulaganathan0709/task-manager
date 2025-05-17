@@ -6,7 +6,7 @@ A clean and responsive task manager built with **React + Vite**, styled using **
 
 ## 🔗 Live Demo
 
-🌍 [View on Vercel](https://your-vercel-url.vercel.app)
+🌍 [View on Vercel](https://task-manager-tawny-rho.vercel.app/)
 
 ---
 
@@ -74,7 +74,7 @@ task-manager/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Ulaganathan0709/task-manager
 cd task-manager
 ```
 
